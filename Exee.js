@@ -13,7 +13,7 @@ let balence = document.getElementById("balence");
 
 
 
-// store in local storage
+// store in local storage.....
 
  budget_btn.onclick = function (e){
   e.preventDefault();
