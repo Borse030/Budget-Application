@@ -80,7 +80,7 @@ for(let j = 0; j<price_tag.length; j++){
 price[j] = price_tag[j].innerHTML ;
 }
 
-price_int = [];
+let price_int = [];
 
 for(let a = 0; a<price.length; a++){
   price_int.push(parseInt(price[a]));
